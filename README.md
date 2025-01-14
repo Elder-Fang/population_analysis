@@ -96,7 +96,7 @@ The following datasets were used:
 ## **6. Outputs**
 ### **Key Results**:
 1. **Population Analysis**:
-   - Distribution and projection of children aged 0-4 for 2030.
+   - Distribution and projection of children aged 0-4 for 2030.( for all tehsil only )
      ![Population Distribution](images/un-desa.jpg)
      - Description: Distribution and projection of children aged 0-4 for 2030.
 
@@ -124,3 +124,4 @@ The following datasets were used:
   - Datasets not shared due to licensing restrictions must be downloaded separately.
 
 ---
+this project is still ongoing !
